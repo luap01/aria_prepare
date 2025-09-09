@@ -1,0 +1,9 @@
+numpy
+pandas
+pyarrow
+Pillow
+tqdm
+rootutils
+projectaria-tools[all]
+opencv-python
+open3d
